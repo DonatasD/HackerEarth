@@ -10,7 +10,6 @@
         <version>1.0</version>
     </parent>
     
-    <artifactId>juneclash16</artifactId>
+    <artifactId>JuneClash16</artifactId>
 
-    
 </project>

@@ -10,7 +10,5 @@
         <version>1.0</version>
     </parent>
 
-    <artifactId>juneeasy16</artifactId>
-
-    
+    <artifactId>JulyEasy16</artifactId>
 </project>
