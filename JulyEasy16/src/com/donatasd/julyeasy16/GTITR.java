@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * Solution to "Gudi Trapped in the Room" problem. Full problem description can be found:
- * <a href="https://www.hackerearth.com/july-easy-16/algorithm/gudi-trapped-in-the-room-july-easy>Gudi Trapped in the Room</a>
+ * <a href="https://www.hackerearth.com/july-easy-16/algorithm/gudi-trapped-in-the-room-july-easy">Gudi Trapped in the Room</a>
  *
  * @author Donatas Daubaras
  */
